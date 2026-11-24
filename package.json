@@ -1,0 +1,1 @@
+{"description":"Roast Your Own Agent: one line roasting the AI agent its own maker built","engines":{"node":">=22.18"},"license":"MIT","name":"makefun-roast-own-agent-nayyy","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
